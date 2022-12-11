@@ -161,11 +161,10 @@ function ordenaPrecio(array){
         }
     })
 
-    return productosOrdenados;
+    return console.log(productosOrdenados)
 }
 
 ordenaPrecio(productos)
-//console.log(ordenaPrecio(productos))
 
 
 
